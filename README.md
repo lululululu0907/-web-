@@ -34,5 +34,13 @@
 Web服务器：Tomcat
 
 ## 安装
-1. 克隆项目到本地  git clone
+1. 克隆项目到本地  git clone https://github.com/lululululu0907/-web-.git
+2. 将项目导入idea中
+3. 连接tomcat服务器
+4. 数据库结构已上传，在world.sql中
+
+
+## 说明文本
+
+
    
